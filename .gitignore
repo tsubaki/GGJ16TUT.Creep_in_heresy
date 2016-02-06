@@ -27,4 +27,7 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
+*.unitypackage*.unitypackage
+Assets/Lens Flares/
+Assets/Tiles_01/
+Assets/
